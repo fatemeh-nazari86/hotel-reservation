@@ -1,0 +1,42 @@
+[
+    {
+        "room_id": "101",
+        "room_type": "1 takhte",
+        "price_per_night": 300000,
+        "amenities": ["tv", "wifi"],
+        "capacity": 1,
+        "is_reserved": true
+    },
+    {
+        "room_id": "102",
+        "room_type": "2 takhte",
+        "price_per_night": 450000,
+        "amenities": ["tv", "yakhchal", "wifi"],
+        "capacity": 2,
+        "is_reserved": true
+    },
+    {
+        "room_id": "201",
+        "room_type": "2 takhte",
+        "price_per_night": 500000,
+        "amenities": ["tv", "yakhchal"],
+        "capacity": 2,
+        "is_reserved": true
+    },
+    {
+        "room_id": "301",
+        "room_type": "Suite",
+        "price_per_night": 900000,
+        "amenities": ["tv", "yakhchal", "wifi", "ashpazkhane"],
+        "capacity": 4,
+        "is_reserved": true
+    },
+    {
+        "room_id": "302",
+        "room_type": "Suite",
+        "price_per_night": 1100000,
+        "amenities": ["tv", "yakhchal", "wifi", "ashpazkhane", "jakoozi"],
+        "capacity": 5,
+        "is_reserved": true
+    }
+]
